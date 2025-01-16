@@ -1,1 +1,8 @@
 /* Place CSS styles here */
+body {
+    color: white;
+    background-color: black;
+    font-size: 38px;
+    background-image: url(../img/background.jpg);
+    background-size: 2000px;
+}
