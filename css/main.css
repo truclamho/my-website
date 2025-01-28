@@ -1,8 +1,44 @@
 /* Place CSS styles here */
 body {
-    color: white;
-    background-color: black;
+    color: black;
+    background-color: white;
     font-size: 38px;
-    background-image: url(../img/background.jpg);
+    /* background-image: url(../img/background.jpg); */
     background-size: 2000px;
 }
+
+.snow-day {
+    color: purple;
+}
+
+.snow-angel {
+    border: 10px solid white;
+}
+
+.top-title {
+    
+}
+
+#myHeader {
+    background-color: lightyellow;
+    color: black;
+    padding: 100px;
+    text-align: center;
+  }
+
+  h2 {
+    font-size: 30px;
+  }
+
+  p {
+    display: block;
+    font-size: 20px;
+    padding-top: 50px;
+    padding-right: 300px;
+    padding-bottom: 50px;
+    padding-left: 300px;
+  }
+
+  .middle {
+    text-align: center;
+  }
